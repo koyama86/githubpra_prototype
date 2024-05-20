@@ -11,8 +11,9 @@
   (**)の間にかく
   
 ## git専用リンク
-https://www.google.co.jp/
- りんくはるだけ
+https://www.google.co.jp/   
+
+りんくはるだけ
 
 ## 取り消し線
 ~~取り消し線~~
