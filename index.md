@@ -1,4 +1,5 @@
 ・[indexへ](https://koyama86.github.io/githubpra_prototype)
+・[secondへ](https://koyama86.github.io/githubpra_prototype/second)
 
 # 見出し１
 こんにちは
@@ -38,10 +39,3 @@ piyo
 
 # 画像
 ![jyobijyobi](./s-jyobijyobi.png)
-
-
-
-
-
-## second.mdへのリンク
-https://koyama86.github.io/githubpra_prototype/second
